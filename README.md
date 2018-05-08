@@ -1,7 +1,9 @@
 # furry game
 
-a simple game in JavaScript.
+## a simple game in JavaScript.
 
 made with HTML, CSS, Sass, Webpack and JavaScript.
 
-https://krudzinska.github.io/furrygame/
+live preview: https://krudzinska.github.io/furrygame/
+
+![game](screens/game.jpg)
